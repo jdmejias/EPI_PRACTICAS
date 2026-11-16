@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Proyecto ICT · Sesión 1 · Esquemas 3D y 2D</title>
+<style>
+@page { size: 420mm 297mm; margin: 0 }
+html, body { margin: 0; padding: 0; background: #fff }
+body { font-family: Arial, Helvetica, sans-serif; color: #111; font-size: 11pt; line-height: 1.15 }
+.sheet { box-sizing: border-box; width: 420mm; height: 297mm; padding: 10mm; overflow: hidden }
+.frame { box-sizing: border-box; border: 0.7mm solid #000; height: 100%; padding: 14mm 16mm; display: grid;
+         grid-template-columns: 1.05fr 1fr; column-gap: 14mm; grid-template-rows: auto 1fr }
+header { grid-column: 1 / 3; border-bottom: 0.4mm solid #000; padding-bottom: 6mm; margin-bottom: 7mm }
+.uni { font-size: 12pt; font-weight: bold; letter-spacing: .02em }
+.sub { font-size: 11pt; margin-top: 1.5mm }
+h1 { font-size: 16pt; margin: 7mm 0 1.5mm }
+.lead { font-size: 12pt }
+h2 { font-size: 12.5pt; margin: 0 0 3mm; border-bottom: 0.25mm solid #888; padding-bottom: 1.2mm }
+section { margin-bottom: 7mm }
+table { border-collapse: collapse; width: 100%; font-size: 10.5pt }
+td, th { border: 0.25mm solid #777; padding: 1.4mm 2.2mm; text-align: left; vertical-align: top }
+th { background: #eee }
+td.n { text-align: center; white-space: nowrap }
+ul { margin: 0; padding-left: 5mm }
+li { margin-bottom: 1.3mm }
+.note { font-size: 10pt; color: #333 }
+</style>
+</head>
+<body>
+<div class="sheet"><div class="frame">
+  <header>
+    <div class="uni">UNIVERSIDAD DE HUELVA · Escuela Técnica Superior de Ingeniería</div>
+    <div class="sub">Diseño de Infraestructura Común de Telecomunicaciones</div>
+    <h1>Proyecto ICT · Sesión 1 · Esquemas 3D y planos 2D</h1>
+    <div class="lead">Conjunto residencial de 13 viviendas unifamiliares, 2 zonas comunes y 1 local comercial ·
+      base arquitectónica para las sesiones siguientes · 13/11/2026</div>
+  </header>
+
+  <div>
+    <section>
+      <h2>1. Datos de la edificación (plantilla de la Sesión 1)</h2>
+      <table>
+        <tr><th style="width:42%">Concepto</th><th>Valor</th></tr>
+        <tr><td>Complejo urbano</td><td>Viviendas unifamiliares, 13 (V01–V13)</td></tr>
+        <tr><td>Nº de estancias por vivienda</td><td>Pendiente en la plantilla · propuesta: 10 dependencias (ver ICT-03 / ICT-04)</td></tr>
+        <tr><td>Plantas</td><td>Pendiente en la plantilla · propuesta: PB + P1</td></tr>
+        <tr><td>Estancias comunes</td><td>2 (ZC1, ZC2)</td></tr>
+        <tr><td>Locales comerciales</td><td>1 (LC1)</td></tr>
+        <tr><td>Situación / dirección / CP / ciudad</td><td>Sin datos en la plantilla</td></tr>
+        <tr><td>PAU · CAT60</td><td>14 · 7 (valores de la plantilla, sin interpretar)</td></tr>
+      </table>
+    </section>
+    <section>
+      <h2>2. Índice de láminas</h2>
+      <table>
+        <tr><th>Plano</th><th>Contenido</th><th>Escala</th></tr>
+        <tr><td class="n">ICT-01</td><td>Esquema 3D del conjunto (axonometría)</td><td class="n">s/e</td></tr>
+        <tr><td class="n">ICT-02</td><td>Plano general 2D del complejo · planta</td><td class="n">1:400</td></tr>
+        <tr><td class="n">ICT-03</td><td>Vivienda unifamiliar tipo · planta baja</td><td class="n">1:50</td></tr>
+        <tr><td class="n">ICT-04</td><td>Vivienda unifamiliar tipo · planta primera</td><td class="n">1:50</td></tr>
+        <tr><td class="n">ICT-05</td><td>Local comercial LC1 y zonas comunes ZC1 / ZC2</td><td class="n">1:200</td></tr>
+      </table>
+    </section>
+  </div>
+
+  <div>
+    <section>
+      <h2>3. Hipótesis de diseño (no existen dimensiones oficiales)</h2>
+      <ul>
+        <li>Conjunto de 138,00 × 50,00 m con vial interior de 7,00 m, aceras de 1,50 m y acceso desde un vial público al oeste.</li>
+        <li>Parcela por vivienda de 14,00 × 18,00 m. Vivienda aislada de 11,00 × 8,00 m en dos plantas, con separación mínima de 3,00 m.</li>
+        <li>Viviendas organizadas en 6 parejas (V01–V02 … V11–V12) más una vivienda restante (V13).</li>
+        <li>LC1 de 16,00 × 10,00 m con el interior en blanco. ZC1 es un edificio de uso común de 12,00 × 8,00 m y ZC2 una zona verde de 14,00 × 18,00 m; ambos usos son propuestos.</li>
+        <li>Las mismas dimensiones se usan en el 3D y en todos los planos 2D, generados desde una única fuente de geometría.</li>
+      </ul>
+    </section>
+    <section>
+      <h2>4. Cuestiones abiertas para la Sesión 2</h2>
+      <ul>
+        <li>El profesor indicó verbalmente un <b>RTS</b> por cada dos viviendas. Según la descripción de la fotografía de la pizarra, aparecen rótulos <b>RS</b> y <b>RTR</b>. No se asume ninguna equivalencia entre RTS, RS, RTR y CAT60: la denominación queda pendiente de confirmar.</li>
+        <li>Observación numérica, sin interpretación técnica: la plantilla indica PAU = 14 y CAT60 = 7. Las agrupaciones propuestas son 7 (6 parejas + V13).</li>
+        <li>La asignación técnica del grupo 7 (V13) se resolverá teniendo en cuenta el local LC1.</li>
+        <li>La capa ICT-RESERVA del plano general está desactivada. Solo marca 7 ubicaciones reservadas, sin equipos ni función.</li>
+      </ul>
+    </section>
+    <p class="note">Esta entrega no incluye cableado, canalizaciones, redes, tomas, recintos ni cálculos de telecomunicaciones.
+      Las capas ICT-* de los archivos SVG y DXF están vacías y preparadas para la siguiente práctica.</p>
+  </div>
+</div></div>
+</body>
+</html>

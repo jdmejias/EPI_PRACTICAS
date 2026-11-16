@@ -1,0 +1,91 @@
+newmtl mat_e3edd8
+Kd 0.8902 0.9294 0.8471
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl mat_9d9d9d
+Kd 0.6157 0.6157 0.6157
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl mat_dcdcdc
+Kd 0.8627 0.8627 0.8627
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl mat_d8d2c6
+Kd 0.8471 0.8235 0.7765
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl mat_a9cf92
+Kd 0.6627 0.8118 0.5725
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl mat_d6e6c6
+Kd 0.8392 0.9020 0.7765
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl mat_ece6da
+Kd 0.9255 0.9020 0.8549
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl mat_b0573d
+Kd 0.6902 0.3412 0.2392
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl mat_5d7590
+Kd 0.3647 0.4588 0.5647
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl mat_6b4a2f
+Kd 0.4196 0.2902 0.1843
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl mat_f2d2a6
+Kd 0.9490 0.8235 0.6510
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl mat_cfc6b8
+Kd 0.8118 0.7765 0.7216
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl mat_c6d8ee
+Kd 0.7765 0.8471 0.9333
+Ka 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="420mm" height="297mm" viewBox="0 0 420 297" version="1.1">
+<title>ICT-03 - Vivienda tipo - Planta baja</title>
+<rect id="fondo" x="0" y="0" width="420" height="297" fill="#ffffff"/>
+<g id="A-SUELO" inkscape:groupmode="layer" inkscape:label="A-SUELO | Fondo de estancias" style="display:inline">
+<path d="M 267.000,214.000 L 267.000,54.000 L 47.000,54.000 L 47.000,214.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="none"/>
+</g>
+<g id="A-MUROS" inkscape:groupmode="layer" inkscape:label="A-MUROS | Muros exteriores (0,25) y tabiques (0,10)" style="display:inline">
+<path d="M 47.000,54.000 L 52.000,54.000 L 67.000,54.000 L 67.000,59.000 L 52.000,59.000 L 52.000,86.000 L 47.000,86.000 L 47.000,59.000 Z" fill-rule="evenodd" fill="#b0b0b0" stroke="#3c3c3c" stroke-width="0.300" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 211.000,54.000 L 211.000,59.000 L 193.000,59.000 L 193.000,62.000 L 191.000,62.000 L 191.000,59.000 L 149.000,59.000 L 149.000,118.000 L 147.000,118.000 L 147.000,59.000 L 127.000,59.000 L 127.000,54.000 Z" fill-rule="evenodd" fill="#b0b0b0" stroke="#3c3c3c" stroke-width="0.300" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 262.000,54.000 L 267.000,54.000 L 267.000,59.000 L 267.000,78.000 L 262.000,78.000 L 262.000,59.000 L 247.000,59.000 L 247.000,54.000 Z" fill-rule="evenodd" fill="#b0b0b0" stroke="#3c3c3c" stroke-width="0.300" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 267.000,209.000 L 267.000,214.000 L 262.000,214.000 L 239.000,214.000 L 239.000,209.000 L 262.000,209.000 L 262.000,166.000 L 193.000,166.000 L 193.000,179.000 L 191.000,179.000 L 191.000,78.000 L 193.000,78.000 L 193.000,164.000 L 262.000,164.000 L 262.000,102.000 L 267.000,102.000 Z" fill-rule="evenodd" fill="#b0b0b0" stroke="#3c3c3c" stroke-width="0.300" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 175.000,214.000 L 175.000,209.000 L 191.000,209.000 L 191.000,194.000 L 193.000,194.000 L 193.000,209.000 L 219.000,209.000 L 219.000,214.000 Z" fill-rule="evenodd" fill="#b0b0b0" stroke="#3c3c3c" stroke-width="0.300" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 119.000,214.000 L 119.000,209.000 L 147.000,209.000 L 147.000,182.000 L 149.000,182.000 L 149.000,209.000 L 155.000,209.000 L 155.000,214.000 Z" fill-rule="evenodd" fill="#b0b0b0" stroke="#3c3c3c" stroke-width="0.300" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 52.000,214.000 L 47.000,214.000 L 47.000,209.000 L 47.000,194.000 L 52.000,194.000 L 52.000,209.000 L 75.000,209.000 L 75.000,214.000 Z" fill-rule="evenodd" fill="#b0b0b0" stroke="#3c3c3c" stroke-width="0.300" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 47.000,122.000 L 52.000,122.000 L 52.000,152.000 L 147.000,152.000 L 147.000,134.000 L 149.000,134.000 L 149.000,166.000 L 147.000,166.000 L 147.000,154.000 L 52.000,154.000 L 52.000,170.000 L 47.000,170.000 Z" fill-rule="evenodd" fill="#b0b0b0" stroke="#3c3c3c" stroke-width="0.300" stroke-linejoin="miter" stroke-miterlimit="4"/>
+</g>
+<g id="A-VENTANAS" inkscape:groupmode="layer" inkscape:label="A-VENTANAS | Ventanas" style="display:inline">
+<path d="M 119.000,214.000 L 119.000,209.000 L 75.000,209.000 L 75.000,214.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 75.000,211.900 L 119.000,211.900" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 75.000,211.100 L 119.000,211.100" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 52.000,194.000 L 52.000,170.000 L 47.000,170.000 L 47.000,194.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 49.100,194.000 L 49.100,170.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 49.900,194.000 L 49.900,170.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 239.000,214.000 L 239.000,209.000 L 219.000,209.000 L 219.000,214.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 219.000,211.900 L 239.000,211.900" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 219.000,211.100 L 239.000,211.100" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 127.000,59.000 L 127.000,54.000 L 67.000,54.000 L 67.000,59.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 67.000,56.900 L 127.000,56.900" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 67.000,56.100 L 127.000,56.100" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 52.000,122.000 L 52.000,86.000 L 47.000,86.000 L 47.000,122.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 49.100,122.000 L 49.100,86.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 49.900,122.000 L 49.900,86.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 247.000,59.000 L 247.000,54.000 L 211.000,54.000 L 211.000,59.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 211.000,56.900 L 247.000,56.900" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 211.000,56.100 L 247.000,56.100" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 267.000,102.000 L 267.000,78.000 L 262.000,78.000 L 262.000,102.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 264.100,102.000 L 264.100,78.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 264.900,102.000 L 264.900,78.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+</g>
+<g id="A-PUERTAS" inkscape:groupmode="layer" inkscape:label="A-PUERTAS | Puertas y sentido de giro" style="display:inline">
+<path d="M 155.000,214.000 L 175.000,214.000" fill="none" stroke="#808080" stroke-width="0.100" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 155.000,209.000 L 175.000,209.000" fill="none" stroke="#808080" stroke-width="0.100" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 155.900,209.000 L 155.900,189.000 L 155.000,189.000 L 155.000,209.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 175.000,209.000 A 20.000 20.000 0 0 1 155.000,189.000" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 147.000,182.000 L 147.000,166.000" fill="none" stroke="#808080" stroke-width="0.100" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 149.000,182.000 L 149.000,166.000" fill="none" stroke="#808080" stroke-width="0.100" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 147.000,182.000 L 147.000,181.100 L 131.000,181.100 L 131.000,182.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 147.000,166.000 A 16.000 16.000 0 0 1 131.000,182.000" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 147.000,134.000 L 147.000,118.000" fill="none" stroke="#808080" stroke-width="0.100" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 149.000,134.000 L 149.000,118.000" fill="none" stroke="#808080" stroke-width="0.100" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 147.000,134.000 L 147.000,133.100 L 131.000,133.100 L 131.000,134.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 147.000,118.000 A 16.000 16.000 0 0 1 131.000,134.000" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 191.000,194.000 L 191.000,179.000" fill="none" stroke="#808080" stroke-width="0.100" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 193.000,194.000 L 193.000,179.000" fill="none" stroke="#808080" stroke-width="0.100" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 208.000,194.000 L 208.000,193.100 L 193.000,193.100 L 193.000,194.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 208.000,194.000 A 15.000 15.000 0 0 1 193.000,179.000" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 191.000,78.000 L 191.000,62.000" fill="none" stroke="#808080" stroke-width="0.100" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 193.000,78.000 L 193.000,62.000" fill="none" stroke="#808080" stroke-width="0.100" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 209.000,62.900 L 209.000,62.000 L 193.000,62.000 L 193.000,62.900 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 193.000,78.000 A 16.000 16.000 0 0 1 209.000,62.000" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+</g>
+<g id="A-ESCALERA" inkscape:groupmode="layer" inkscape:label="A-ESCALERA | Escalera y barandilla" style="display:inline">
+<path d="M 191.000,154.000 L 191.000,81.200 L 171.000,81.200 L 171.000,154.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.250" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 171.000,148.800 L 191.000,148.800" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 171.000,143.600 L 191.000,143.600" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 171.000,138.400 L 191.000,138.400" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 171.000,133.200 L 191.000,133.200" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 171.000,128.000 L 191.000,128.000" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 171.000,122.800 L 191.000,122.800" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 171.000,117.600 L 191.000,117.600" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 171.000,112.400 L 191.000,112.400" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 171.000,107.200 L 191.000,107.200" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 171.000,102.000 L 191.000,102.000" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 171.000,96.800 L 191.000,96.800" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 171.000,91.600 L 191.000,91.600" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 171.000,86.400 L 191.000,86.400" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 171.000,154.000 L 171.000,81.200 L 170.000,81.200 L 170.000,154.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 182.200,84.800 L 182.190,84.957 L 182.159,85.111 L 182.109,85.259 L 182.039,85.400 L 181.952,85.531 L 181.849,85.649 L 181.731,85.752 L 181.600,85.839 L 181.459,85.909 L 181.311,85.959 L 181.157,85.990 L 181.000,86.000 L 180.843,85.990 L 180.689,85.959 L 180.541,85.909 L 180.400,85.839 L 180.269,85.752 L 180.151,85.649 L 180.048,85.531 L 179.961,85.400 L 179.891,85.259 L 179.841,85.111 L 179.810,84.957 L 179.800,84.800 L 179.810,84.643 L 179.841,84.489 L 179.891,84.341 L 179.961,84.200 L 180.048,84.069 L 180.151,83.951 L 180.269,83.848 L 180.400,83.761 L 180.541,83.691 L 180.689,83.641 L 180.843,83.610 L 181.000,83.600 L 181.157,83.610 L 181.311,83.641 L 181.459,83.691 L 181.600,83.761 L 181.731,83.848 L 181.849,83.951 L 181.952,84.069 L 182.039,84.200 L 182.109,84.341 L 182.159,84.489 L 182.190,84.643 Z" fill-rule="evenodd" fill="#000" stroke="none"/>
+<path d="M 181.000,84.800 L 181.000,151.000" fill="none" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 181.000,151.000 L 179.140,147.012 L 182.860,147.012 Z" fill-rule="evenodd" fill="#000" stroke="#000" stroke-width="0.100" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="181.000" y="74.800" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="bold" text-anchor="middle" dominant-baseline="central" fill="#000">SUBE</text>
+</g>
+<g id="A-SANITARIOS" inkscape:groupmode="layer" inkscape:label="A-SANITARIOS | Aparatos sanitarios y cocina (referencia)" style="display:inline">
+<path d="M 262.000,209.000 L 262.000,185.000 L 244.000,185.000 L 244.000,209.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 244.000,209.000 L 262.000,185.000" fill="none" stroke="#000" stroke-width="0.100" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 244.000,185.000 L 262.000,209.000" fill="none" stroke="#000" stroke-width="0.100" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 229.000,170.400 L 229.000,166.000 L 219.000,166.000 L 219.000,170.400 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 227.800,175.400 L 227.792,175.740 L 227.767,176.079 L 227.727,176.414 L 227.671,176.746 L 227.598,177.071 L 227.511,177.390 L 227.408,177.700 L 227.291,178.000 L 227.160,178.289 L 227.015,178.566 L 226.857,178.829 L 226.687,179.077 L 226.506,179.310 L 226.313,179.525 L 226.111,179.724 L 225.900,179.903 L 225.681,180.064 L 225.454,180.204 L 225.221,180.324 L 224.984,180.423 L 224.741,180.500 L 224.496,180.556 L 224.249,180.589 L 224.000,180.600 L 223.751,180.589 L 223.504,180.556 L 223.259,180.500 L 223.016,180.423 L 222.779,180.324 L 222.546,180.204 L 222.319,180.064 L 222.100,179.903 L 221.889,179.724 L 221.687,179.525 L 221.494,179.310 L 221.313,179.077 L 221.143,178.829 L 220.985,178.566 L 220.840,178.289 L 220.709,178.000 L 220.592,177.700 L 220.489,177.390 L 220.402,177.071 L 220.329,176.746 L 220.273,176.414 L 220.233,176.079 L 220.208,175.740 L 220.200,175.400 L 220.208,175.060 L 220.233,174.721 L 220.273,174.386 L 220.329,174.054 L 220.402,173.729 L 220.489,173.410 L 220.592,173.100 L 220.709,172.800 L 220.840,172.511 L 220.985,172.234 L 221.143,171.971 L 221.313,171.723 L 221.494,171.490 L 221.687,171.275 L 221.889,171.076 L 222.100,170.897 L 222.319,170.736 L 222.546,170.596 L 222.779,170.476 L 223.016,170.377 L 223.259,170.300 L 223.504,170.244 L 223.751,170.211 L 224.000,170.200 L 224.249,170.211 L 224.496,170.244 L 224.741,170.300 L 224.984,170.377 L 225.221,170.476 L 225.454,170.596 L 225.681,170.736 L 225.900,170.897 L 226.111,171.076 L 226.313,171.275 L 226.506,171.490 L 226.687,171.723 L 226.857,171.971 L 227.015,172.234 L 227.160,172.511 L 227.291,172.800 L 227.408,173.100 L 227.511,173.410 L 227.598,173.729 L 227.671,174.054 L 227.727,174.386 L 227.767,174.721 L 227.792,175.060 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 250.000,174.400 L 250.000,166.000 L 236.000,166.000 L 236.000,174.400 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 248.000,170.600 L 247.989,170.783 L 247.957,170.965 L 247.904,171.146 L 247.830,171.325 L 247.735,171.500 L 247.619,171.672 L 247.484,171.838 L 247.330,172.000 L 247.157,172.156 L 246.967,172.305 L 246.759,172.446 L 246.536,172.580 L 246.297,172.705 L 246.044,172.821 L 245.778,172.928 L 245.500,173.025 L 245.211,173.111 L 244.913,173.187 L 244.607,173.251 L 244.294,173.305 L 243.975,173.346 L 243.653,173.376 L 243.327,173.394 L 243.000,173.400 L 242.673,173.394 L 242.347,173.376 L 242.025,173.346 L 241.706,173.305 L 241.393,173.251 L 241.087,173.187 L 240.789,173.111 L 240.500,173.025 L 240.222,172.928 L 239.956,172.821 L 239.703,172.705 L 239.464,172.580 L 239.241,172.446 L 239.033,172.305 L 238.843,172.156 L 238.670,172.000 L 238.516,171.838 L 238.381,171.672 L 238.265,171.500 L 238.170,171.325 L 238.096,171.146 L 238.043,170.965 L 238.011,170.783 L 238.000,170.600 L 238.011,170.417 L 238.043,170.235 L 238.096,170.054 L 238.170,169.875 L 238.265,169.700 L 238.381,169.528 L 238.516,169.362 L 238.670,169.200 L 238.843,169.044 L 239.033,168.895 L 239.241,168.754 L 239.464,168.620 L 239.703,168.495 L 239.956,168.379 L 240.222,168.272 L 240.500,168.175 L 240.789,168.089 L 241.087,168.013 L 241.393,167.949 L 241.706,167.895 L 242.025,167.854 L 242.347,167.824 L 242.673,167.806 L 243.000,167.800 L 243.327,167.806 L 243.653,167.824 L 243.975,167.854 L 244.294,167.895 L 244.607,167.949 L 244.913,168.013 L 245.211,168.089 L 245.500,168.175 L 245.778,168.272 L 246.044,168.379 L 246.297,168.495 L 246.536,168.620 L 246.759,168.754 L 246.967,168.895 L 247.157,169.044 L 247.330,169.200 L 247.484,169.362 L 247.619,169.528 L 247.735,169.700 L 247.830,169.875 L 247.904,170.054 L 247.957,170.235 L 247.989,170.417 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 262.000,164.000 L 262.000,151.000 L 248.000,151.000 L 248.000,164.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 248.000,164.000 L 262.000,151.000" fill="none" stroke="#000" stroke-width="0.100" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 262.000,151.000 L 262.000,114.000 L 250.000,114.000 L 250.000,151.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 255.400,140.000 L 255.390,140.196 L 255.362,140.390 L 255.314,140.581 L 255.248,140.765 L 255.164,140.943 L 255.063,141.111 L 254.946,141.269 L 254.814,141.414 L 254.669,141.546 L 254.511,141.663 L 254.343,141.764 L 254.165,141.848 L 253.981,141.914 L 253.790,141.962 L 253.596,141.990 L 253.400,142.000 L 253.204,141.990 L 253.010,141.962 L 252.819,141.914 L 252.635,141.848 L 252.457,141.764 L 252.289,141.663 L 252.131,141.546 L 251.986,141.414 L 251.854,141.269 L 251.737,141.111 L 251.636,140.943 L 251.552,140.765 L 251.486,140.581 L 251.438,140.390 L 251.410,140.196 L 251.400,140.000 L 251.410,139.804 L 251.438,139.610 L 251.486,139.419 L 251.552,139.235 L 251.636,139.057 L 251.737,138.889 L 251.854,138.731 L 251.986,138.586 L 252.131,138.454 L 252.289,138.337 L 252.457,138.236 L 252.635,138.152 L 252.819,138.086 L 253.010,138.038 L 253.204,138.010 L 253.400,138.000 L 253.596,138.010 L 253.790,138.038 L 253.981,138.086 L 254.165,138.152 L 254.343,138.236 L 254.511,138.337 L 254.669,138.454 L 254.814,138.586 L 254.946,138.731 L 255.063,138.889 L 255.164,139.057 L 255.248,139.235 L 255.314,139.419 L 255.362,139.610 L 255.390,139.804 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 255.400,133.000 L 255.390,133.196 L 255.362,133.390 L 255.314,133.581 L 255.248,133.765 L 255.164,133.943 L 255.063,134.111 L 254.946,134.269 L 254.814,134.414 L 254.669,134.546 L 254.511,134.663 L 254.343,134.764 L 254.165,134.848 L 253.981,134.914 L 253.790,134.962 L 253.596,134.990 L 253.400,135.000 L 253.204,134.990 L 253.010,134.962 L 252.819,134.914 L 252.635,134.848 L 252.457,134.764 L 252.289,134.663 L 252.131,134.546 L 251.986,134.414 L 251.854,134.269 L 251.737,134.111 L 251.636,133.943 L 251.552,133.765 L 251.486,133.581 L 251.438,133.390 L 251.410,133.196 L 251.400,133.000 L 251.410,132.804 L 251.438,132.610 L 251.486,132.419 L 251.552,132.235 L 251.636,132.057 L 251.737,131.889 L 251.854,131.731 L 251.986,131.586 L 252.131,131.454 L 252.289,131.337 L 252.457,131.236 L 252.635,131.152 L 252.819,131.086 L 253.010,131.038 L 253.204,131.010 L 253.400,131.000 L 253.596,131.010 L 253.790,131.038 L 253.981,131.086 L 254.165,131.152 L 254.343,131.236 L 254.511,131.337 L 254.669,131.454 L 254.814,131.586 L 254.946,131.731 L 255.063,131.889 L 255.164,132.057 L 255.248,132.235 L 255.314,132.419 L 255.362,132.610 L 255.390,132.804 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 260.600,140.000 L 260.590,140.196 L 260.562,140.390 L 260.514,140.581 L 260.448,140.765 L 260.364,140.943 L 260.263,141.111 L 260.146,141.269 L 260.014,141.414 L 259.869,141.546 L 259.711,141.663 L 259.543,141.764 L 259.365,141.848 L 259.181,141.914 L 258.990,141.962 L 258.796,141.990 L 258.600,142.000 L 258.404,141.990 L 258.210,141.962 L 258.019,141.914 L 257.835,141.848 L 257.657,141.764 L 257.489,141.663 L 257.331,141.546 L 257.186,141.414 L 257.054,141.269 L 256.937,141.111 L 256.836,140.943 L 256.752,140.765 L 256.686,140.581 L 256.638,140.390 L 256.610,140.196 L 256.600,140.000 L 256.610,139.804 L 256.638,139.610 L 256.686,139.419 L 256.752,139.235 L 256.836,139.057 L 256.937,138.889 L 257.054,138.731 L 257.186,138.586 L 257.331,138.454 L 257.489,138.337 L 257.657,138.236 L 257.835,138.152 L 258.019,138.086 L 258.210,138.038 L 258.404,138.010 L 258.600,138.000 L 258.796,138.010 L 258.990,138.038 L 259.181,138.086 L 259.365,138.152 L 259.543,138.236 L 259.711,138.337 L 259.869,138.454 L 260.014,138.586 L 260.146,138.731 L 260.263,138.889 L 260.364,139.057 L 260.448,139.235 L 260.514,139.419 L 260.562,139.610 L 260.590,139.804 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 260.600,133.000 L 260.590,133.196 L 260.562,133.390 L 260.514,133.581 L 260.448,133.765 L 260.364,133.943 L 260.263,134.111 L 260.146,134.269 L 260.014,134.414 L 259.869,134.546 L 259.711,134.663 L 259.543,134.764 L 259.365,134.848 L 259.181,134.914 L 258.990,134.962 L 258.796,134.990 L 258.600,135.000 L 258.404,134.990 L 258.210,134.962 L 258.019,134.914 L 257.835,134.848 L 257.657,134.764 L 257.489,134.663 L 257.331,134.546 L 257.186,134.414 L 257.054,134.269 L 256.937,134.111 L 256.836,133.943 L 256.752,133.765 L 256.686,133.581 L 256.638,133.390 L 256.610,133.196 L 256.600,133.000 L 256.610,132.804 L 256.638,132.610 L 256.686,132.419 L 256.752,132.235 L 256.836,132.057 L 256.937,131.889 L 257.054,131.731 L 257.186,131.586 L 257.331,131.454 L 257.489,131.337 L 257.657,131.236 L 257.835,131.152 L 258.019,131.086 L 258.210,131.038 L 258.404,131.010 L 258.600,131.000 L 258.796,131.010 L 258.990,131.038 L 259.181,131.086 L 259.365,131.152 L 259.543,131.236 L 259.711,131.337 L 259.869,131.454 L 260.014,131.586 L 260.146,131.731 L 260.263,131.889 L 260.364,132.057 L 260.448,132.235 L 260.514,132.419 L 260.562,132.610 L 260.590,132.804 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 262.000,71.000 L 262.000,59.000 L 219.000,59.000 L 219.000,71.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 243.000,69.000 L 243.000,61.000 L 227.000,61.000 L 227.000,69.000 Z" fill-rule="evenodd" fill="#ffffff" stroke="#000" stroke-width="0.180" stroke-linejoin="miter" stroke-miterlimit="4"/>
+</g>
+<g id="A-ESTANCIAS" inkscape:groupmode="layer" inkscape:label="A-ESTANCIAS | Rótulos de dependencias y superficies" style="display:inline">
+<text x="99.000" y="179.490" font-family="Arial, Helvetica, sans-serif" font-size="2.60" font-weight="bold" text-anchor="middle" dominant-baseline="central" fill="#000">Dormitorio 4</text>
+<text x="99.000" y="183.000" font-family="Arial, Helvetica, sans-serif" font-size="2.60" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000">(o despacho)</text>
+<text x="99.000" y="186.510" font-family="Arial, Helvetica, sans-serif" font-size="2.60" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000">13,06 m²</text>
+<text x="99.000" y="103.245" font-family="Arial, Helvetica, sans-serif" font-size="2.60" font-weight="bold" text-anchor="middle" dominant-baseline="central" fill="#000">Salón-comedor</text>
+<text x="99.000" y="106.755" font-family="Arial, Helvetica, sans-serif" font-size="2.60" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000">22,09 m²</text>
+<text x="170.000" y="170.030" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="bold" text-anchor="middle" dominant-baseline="central" fill="#000">Vestíbulo-</text>
+<text x="170.000" y="173.000" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="bold" text-anchor="middle" dominant-baseline="central" fill="#000">distribuidor</text>
+<text x="170.000" y="175.970" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000">12,11 m²</text>
+<text x="226.000" y="195.245" font-family="Arial, Helvetica, sans-serif" font-size="2.60" font-weight="bold" text-anchor="middle" dominant-baseline="central" fill="#000">Baño 2</text>
+<text x="226.000" y="198.755" font-family="Arial, Helvetica, sans-serif" font-size="2.60" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000">7,42 m²</text>
+<text x="221.000" y="114.245" font-family="Arial, Helvetica, sans-serif" font-size="2.60" font-weight="bold" text-anchor="middle" dominant-baseline="central" fill="#000">Cocina</text>
+<text x="221.000" y="117.755" font-family="Arial, Helvetica, sans-serif" font-size="2.60" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000">18,11 m²</text>
+</g>
+<g id="A-COTAS" inkscape:groupmode="layer" inkscape:label="A-COTAS | Cotas generales" style="display:inline">
+<path d="M 47.000,215.000 L 47.000,242.500" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 267.000,215.000 L 267.000,242.500" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 45.500,241.000 L 268.500,241.000" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 45.900,242.100 L 48.100,239.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 265.900,242.100 L 268.100,239.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="157.000" y="239.300" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000">11,00</text>
+<path d="M 47.000,215.000 L 47.000,229.500" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 148.000,215.000 L 148.000,229.500" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 45.500,228.000 L 149.500,228.000" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 45.900,229.100 L 48.100,226.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 146.900,229.100 L 149.100,226.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="97.500" y="226.300" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000">5,05</text>
+<path d="M 148.000,215.000 L 148.000,229.500" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 192.000,215.000 L 192.000,229.500" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 146.500,228.000 L 193.500,228.000" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 146.900,229.100 L 149.100,226.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 190.900,229.100 L 193.100,226.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="170.000" y="226.300" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000">2,20</text>
+<path d="M 192.000,215.000 L 192.000,229.500" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 267.000,215.000 L 267.000,229.500" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 190.500,228.000 L 268.500,228.000" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 190.900,229.100 L 193.100,226.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 265.900,229.100 L 268.100,226.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="229.500" y="226.300" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000">3,75</text>
+<path d="M 268.000,214.000 L 295.500,214.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 268.000,54.000 L 295.500,54.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 294.000,215.500 L 294.000,52.500" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 292.900,215.100 L 295.100,212.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 292.900,55.100 L 295.100,52.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="292.300" y="134.000" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000" transform="rotate(-90.00 292.300 134.000)">8,00</text>
+<path d="M 268.000,214.000 L 282.500,214.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 268.000,165.000 L 282.500,165.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 281.000,215.500 L 281.000,163.500" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 279.900,215.100 L 282.100,212.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 279.900,166.100 L 282.100,163.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="279.300" y="189.500" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000" transform="rotate(-90.00 279.300 189.500)">2,45</text>
+<path d="M 268.000,165.000 L 282.500,165.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 268.000,54.000 L 282.500,54.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 281.000,166.500 L 281.000,52.500" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 279.900,166.100 L 282.100,163.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 279.900,55.100 L 282.100,52.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="279.300" y="109.500" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000" transform="rotate(-90.00 279.300 109.500)">5,55</text>
+<path d="M 46.000,214.000 L 31.500,214.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 46.000,153.000 L 31.500,153.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 33.000,215.500 L 33.000,151.500" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 31.900,215.100 L 34.100,212.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 31.900,154.100 L 34.100,151.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="31.300" y="183.500" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000" transform="rotate(-90.00 31.300 183.500)">3,05</text>
+<path d="M 46.000,153.000 L 31.500,153.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 46.000,54.000 L 31.500,54.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 33.000,154.500 L 33.000,52.500" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 31.900,154.100 L 34.100,151.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 31.900,55.100 L 34.100,52.900" fill="none" stroke="#000" stroke-width="0.350" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="31.300" y="103.500" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000" transform="rotate(-90.00 31.300 103.500)">4,95</text>
+</g>
+<g id="A-TEXTOS" inkscape:groupmode="layer" inkscape:label="A-TEXTOS | Textos de fachada" style="display:inline">
+<text x="157.000" y="257.000" font-family="Arial, Helvetica, sans-serif" font-size="2.60" font-weight="bold" text-anchor="middle" dominant-baseline="central" fill="#000">FACHADA PRINCIPAL · acceso desde el vial interior</text>
+<text x="157.000" y="34.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000" font-style="italic">Fachada posterior · jardín privado</text>
+</g>
+<g id="ICT-RIU-REGISTROS" inkscape:groupmode="layer" inkscape:label="ICT-RIU-REGISTROS | VACÍA - registros red interior (sesión siguiente)" style="display:inline">
+</g>
+<g id="ICT-RIU-CANALIZACION" inkscape:groupmode="layer" inkscape:label="ICT-RIU-CANALIZACION | VACÍA - canalización red interior (sesión siguiente)" style="display:inline">
+</g>
+<g id="ICT-RIU-TOMAS" inkscape:groupmode="layer" inkscape:label="ICT-RIU-TOMAS | VACÍA - tomas de usuario (sesión siguiente)" style="display:inline">
+</g>
+<g id="P-MARCO" inkscape:groupmode="layer" inkscape:label="P-MARCO | Marco y cajetín" style="display:inline">
+<rect x="10.000" y="10.000" width="400.000" height="277.000" fill="none" stroke="#000" stroke-width="0.700" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<rect x="285.000" y="235.000" width="125.000" height="52.000" fill="#ffffff" stroke="#000" stroke-width="0.500" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 285.000,244.000 L 410.000,244.000" fill="none" stroke="#000" stroke-width="0.250" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 285.000,251.000 L 410.000,251.000" fill="none" stroke="#000" stroke-width="0.250" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 285.000,259.000 L 410.000,259.000" fill="none" stroke="#000" stroke-width="0.250" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 285.000,270.000 L 410.000,270.000" fill="none" stroke="#000" stroke-width="0.250" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 285.000,278.500 L 410.000,278.500" fill="none" stroke="#000" stroke-width="0.250" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="347.500" y="239.500" font-family="Arial, Helvetica, sans-serif" font-size="3.00" font-weight="bold" text-anchor="middle" dominant-baseline="central" fill="#000">UNIVERSIDAD DE HUELVA · E.T.S. de Ingeniería</text>
+<text x="347.500" y="247.500" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="middle" dominant-baseline="central" fill="#000">Diseño de Infraestructura Común de Telecomunicaciones</text>
+<text x="347.500" y="255.000" font-family="Arial, Helvetica, sans-serif" font-size="2.30" font-weight="bold" text-anchor="middle" dominant-baseline="central" fill="#000">Proyecto ICT · Conjunto residencial de 13 viviendas unifamiliares</text>
+<text x="347.500" y="264.500" font-family="Arial, Helvetica, sans-serif" font-size="3.60" font-weight="bold" text-anchor="middle" dominant-baseline="central" fill="#000">Vivienda tipo · Planta baja</text>
+<text x="288.000" y="274.250" font-family="Arial, Helvetica, sans-serif" font-size="2.60" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Plano: ICT-03</text>
+<text x="335.000" y="274.250" font-family="Arial, Helvetica, sans-serif" font-size="2.60" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Escala: 1:50</text>
+<text x="380.000" y="274.250" font-family="Arial, Helvetica, sans-serif" font-size="2.60" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Hoja: 3/5</text>
+<path d="M 332.000,270.000 L 332.000,278.500" fill="none" stroke="#000" stroke-width="0.250" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 377.000,270.000 L 377.000,278.500" fill="none" stroke="#000" stroke-width="0.250" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="288.000" y="282.750" font-family="Arial, Helvetica, sans-serif" font-size="2.30" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Sesión 1 · Base arquitectónica (sin instalaciones ICT)</text>
+<text x="407.000" y="282.750" font-family="Arial, Helvetica, sans-serif" font-size="2.30" font-weight="normal" text-anchor="end" dominant-baseline="central" fill="#000">13/11/2026</text>
+</g>
+<g id="P-LEYENDA" inkscape:groupmode="layer" inkscape:label="P-LEYENDA | Leyenda, cuadro y notas" style="display:inline">
+<text x="20.000" y="19.000" font-family="Arial, Helvetica, sans-serif" font-size="5.00" font-weight="bold" text-anchor="start" dominant-baseline="central" fill="#000">VIVIENDA UNIFAMILIAR TIPO · PLANTA BAJA</text>
+<text x="20.000" y="26.000" font-family="Arial, Helvetica, sans-serif" font-size="2.60" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Planta común a las 13 viviendas (V01–V13) · dos plantas (PB + P1) · huella 11,00 × 8,00 m · altura libre propuesta 2,70 m</text>
+<text x="300.000" y="40.000" font-family="Arial, Helvetica, sans-serif" font-size="2.80" font-weight="bold" text-anchor="start" dominant-baseline="central" fill="#000">CUADRO DE SUPERFICIES ÚTILES · PLANTA BAJA</text>
+<rect x="300.000" y="43.500" width="103.000" height="7.000" fill="#eeeeee" stroke="#000" stroke-width="0.250" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="302.000" y="47.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="bold" text-anchor="start" dominant-baseline="central" fill="#000">Dependencia</text>
+<text x="401.000" y="47.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="bold" text-anchor="end" dominant-baseline="central" fill="#000">Sup. (m²)</text>
+<rect x="300.000" y="50.500" width="103.000" height="7.000" fill="none" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="302.000" y="54.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Dormitorio 4 / despacho</text>
+<text x="401.000" y="54.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="end" dominant-baseline="central" fill="#000">13,06</text>
+<rect x="300.000" y="57.500" width="103.000" height="7.000" fill="none" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="302.000" y="61.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Salón-comedor</text>
+<text x="401.000" y="61.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="end" dominant-baseline="central" fill="#000">22,09</text>
+<rect x="300.000" y="64.500" width="103.000" height="7.000" fill="none" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="302.000" y="68.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Vestíbulo-distribuidor</text>
+<text x="401.000" y="68.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="end" dominant-baseline="central" fill="#000">12,11</text>
+<rect x="300.000" y="71.500" width="103.000" height="7.000" fill="none" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="302.000" y="75.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Baño 2</text>
+<text x="401.000" y="75.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="end" dominant-baseline="central" fill="#000">7,42</text>
+<rect x="300.000" y="78.500" width="103.000" height="7.000" fill="none" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="302.000" y="82.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Cocina</text>
+<text x="401.000" y="82.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="end" dominant-baseline="central" fill="#000">18,11</text>
+<rect x="300.000" y="85.500" width="103.000" height="7.000" fill="none" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="302.000" y="89.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Escalera (proyección)</text>
+<text x="401.000" y="89.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="end" dominant-baseline="central" fill="#000">3,64</text>
+<rect x="300.000" y="92.500" width="103.000" height="7.000" fill="#eeeeee" stroke="#000" stroke-width="0.250" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="302.000" y="96.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="bold" text-anchor="start" dominant-baseline="central" fill="#000">Total útil de la planta</text>
+<text x="401.000" y="96.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="bold" text-anchor="end" dominant-baseline="central" fill="#000">76,43</text>
+<text x="300.000" y="103.000" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Superficie construida por planta: 88,00 m² · total vivienda: 176,00 m²</text>
+<text x="300.000" y="114.000" font-family="Arial, Helvetica, sans-serif" font-size="2.80" font-weight="bold" text-anchor="start" dominant-baseline="central" fill="#000">SIMBOLOGÍA</text>
+<rect x="300.000" y="119.000" width="9.000" height="4.000" fill="#b0b0b0" stroke="#3c3c3c" stroke-width="0.250" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="312.000" y="121.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Muro exterior 0,25 m / tabique 0,10 m</text>
+<path d="M 300.000,130.000 L 300.000,126.000 L 301.000,126.000 L 301.000,130.000" fill="none" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 301.000,130.000 L 306.000,130.000" fill="none" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 301.000,125.200 L 301.000,130.000" fill="none" stroke="#000" stroke-width="0.400" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 301.00,125.20 A 4.8 4.8 0 0 1 305.80,130.00" fill="none" stroke="#000" stroke-width="0.150" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="312.000" y="128.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Puerta abatible (hoja y sentido de giro)</text>
+<rect x="300.000" y="133.800" width="9.000" height="2.400" fill="#fff" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 300.000,134.700 L 309.000,134.700" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 300.000,135.300 L 309.000,135.300" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="312.000" y="135.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Ventana</text>
+<rect x="300.000" y="140.000" width="9.000" height="4.000" fill="#fff" stroke="#000" stroke-width="0.200" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 301.500,140.000 L 301.500,144.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 303.000,140.000 L 303.000,144.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 304.500,140.000 L 304.500,144.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 306.000,140.000 L 306.000,144.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<path d="M 307.500,140.000 L 307.500,144.000" fill="none" stroke="#000" stroke-width="0.130" stroke-linejoin="miter" stroke-miterlimit="4"/>
+<text x="312.000" y="142.000" font-family="Arial, Helvetica, sans-serif" font-size="2.40" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">Escalera recta, 14 huellas de 0,26 m</text>
+<text x="300.000" y="153.000" font-family="Arial, Helvetica, sans-serif" font-size="2.80" font-weight="bold" text-anchor="start" dominant-baseline="central" fill="#000">NOTAS</text>
+<text x="300.000" y="159.000" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">1. Cotas en metros. Dimensiones de diseño</text>
+<text x="302.860" y="162.410" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">propuestas (hipótesis), comunes a todos los planos.</text>
+<text x="300.000" y="165.820" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">2. Superficies útiles medidas a cara interior.</text>
+<text x="300.000" y="169.230" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">3. V01–V06: fachada principal al sur.</text>
+<text x="302.860" y="172.640" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">V07–V13: misma planta girada 180°.</text>
+<text x="300.000" y="176.050" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">4. Capas ICT-RIU-* vacías: reservadas para</text>
+<text x="302.860" y="179.460" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">registros, canalización y tomas (sesión 2).</text>
+<text x="300.000" y="182.870" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">5. Mobiliario no representado salvo sanitarios</text>
+<text x="302.860" y="186.280" font-family="Arial, Helvetica, sans-serif" font-size="2.20" font-weight="normal" text-anchor="start" dominant-baseline="central" fill="#000">y cocina, como referencia de uso.</text>
+</g>
+</svg>
